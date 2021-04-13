@@ -1,7 +1,14 @@
 # Vanishing Gradient explained using Code!
+
 ## To view the video
-* [Click here](https://youtu.be/wTyZqtJyp5g)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=wTyZqtJyp5g" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/wTyZqtJyp5g?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Vanishing Gradient explained using Code!](http://img.youtube.com/vi/wTyZqtJyp5g/0.jpg)](http://www.youtube.com/watch?v=wTyZqtJyp5g)
 
